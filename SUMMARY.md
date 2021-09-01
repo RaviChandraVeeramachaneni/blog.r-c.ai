@@ -4,6 +4,7 @@
 
 ## FastBook
 
+* [Deep Learning for Coders / Chapter-13 / Week-12](fastbook/fbw12.md)
 * [Deep Learning for Coders / Chapter-8 / Week-10 & Week-11](fastbook/fbw10.md)
 * [Deep Learning for Coders / Chapter-5 \(part-2\) / Week-7](fastbook/fbw7.md)
 * [Deep Learning for Coders / Chapter-7 / Week-9](fastbook/fbw9.md)
